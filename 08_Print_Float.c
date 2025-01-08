@@ -7,7 +7,7 @@ int main() {
     printf("Enter a string (up to 19 characters): ");
     scanf("%f",Num);
 
-    printf("%f",Num);
+    printf("%2f",Num);
 
 return 0;
 }
