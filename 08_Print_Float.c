@@ -7,7 +7,7 @@ int main() {
     printf("Enter a string (up to 19 characters): ");
     scanf("%f",Num);
 
-    printf("%2f",Num);
+    printf("%2f",Num);                               //%2f because after . operator 
 
 return 0;
 }
