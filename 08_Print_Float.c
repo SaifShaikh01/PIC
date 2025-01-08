@@ -2,10 +2,12 @@
 
 int main() {
 
-    char ch[20]; 
+    float Num=20.65; 
 
     printf("Enter a string (up to 19 characters): ");
-    scanf("%s", ch);
-    printf("Entered String is %s",ch);
+    scanf("%f",Num);
+
+    printf("%f",Num);
+
 return 0;
 }
