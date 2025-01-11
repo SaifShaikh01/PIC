@@ -9,6 +9,7 @@
             scanf("%d",&num2);
 
             sum=num1+num2;
+            printf("The sum of two numbers is %d",sum);
             
         return 0;
     }
