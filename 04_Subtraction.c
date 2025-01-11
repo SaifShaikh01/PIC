@@ -9,6 +9,7 @@
             scanf("%d",&num2);
 
             sub=num1-num2;
+            printf("Subtraction of two numbers is %d",sub);
             
         return 0;
     }
