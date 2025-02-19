@@ -8,7 +8,8 @@
             printf("Enter a second number");
             scanf("%d",&num2);
 
-            div=num1+num2;
+            div=num1/num2;
+            printf("Division of two numbers is %d",div);
             
         return 0;
     }
